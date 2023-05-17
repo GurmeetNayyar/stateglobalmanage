@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stateglobalmanage/static/css/main.e6c13ad2.css",
+    "main.js": "/stateglobalmanage/static/js/main.2708197e.js",
+    "static/js/787.aad65a53.chunk.js": "/stateglobalmanage/static/js/787.aad65a53.chunk.js",
+    "index.html": "/stateglobalmanage/index.html",
+    "main.e6c13ad2.css.map": "/stateglobalmanage/static/css/main.e6c13ad2.css.map",
+    "main.2708197e.js.map": "/stateglobalmanage/static/js/main.2708197e.js.map",
+    "787.aad65a53.chunk.js.map": "/stateglobalmanage/static/js/787.aad65a53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2708197e.js"
+  ]
+}
